@@ -6,3 +6,8 @@ print(frutas[0])
 
 frutas.append("espero que bien")
 print(frutas)
+
+frutas.append("espero que bien")
+print(frutas)
+frutas.append("espero que bien")
+print(frutas)
